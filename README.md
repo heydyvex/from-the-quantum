@@ -1,6 +1,6 @@
 # from-the-quantum
 From Quantum information to general intelligence
-Exploring and learning from very first principle: Quantum physics to autonomous software (software 2.0) to General Intelligence (GI).
+Exploring and learning from very first principle: Quantum information to autonomous software (software 2.0) to [GI](https://github.com/heydyvex/GI).
 
 Objectives: Understanding **computation** and **information**, physics of them and broadly software on top of them.
 
